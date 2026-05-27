@@ -44,7 +44,7 @@ export default function Home() {
               className="text-5xl mx-2 mt-6 mb-12 text-center lg:h-12"
             />
             <h2 className={cn('text-7xl font-zain')}>Calendify</h2>
-            <p className="text-lg">AI-Powered Calendar Manager</p>
+            <p className="text-lg">Your AI Powered Calendar Manager</p>
             <LoginButton mode="redirect">
               <Button>Sign In</Button>
             </LoginButton>
